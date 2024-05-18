@@ -102,6 +102,11 @@ p {
   text-decoration: underline;
 }
 
+.myPDF {
+  width: 85%;
+  height: 975px;
+}
+
 @media (max-width: 757px) {
   .navbar-toggler-icon {
     text-align: center;
